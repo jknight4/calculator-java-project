@@ -1,4 +1,4 @@
-# Calculator - JAVA Project
+# Calculator - Java Project
 
 ## Why
   I struggled with understanding Java Lambdas and Generics. 
