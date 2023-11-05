@@ -17,7 +17,8 @@
     1. Support for Multiple Data Types: 
     Implement generic methods to support different data types, such as integers, doubles, and more.
     
-    2.  User Interface: Allow users to choose the operation they want to perform (e.g., addition, subtraction, multiplication) and input the operands.
+    2.  User Interface: 
+    Allow users to choose the operation they want to perform (e.g., addition, subtraction, multiplication) and input the operands.
     
     3. Lambda Expressions for Operations: 
     Use lambda expressions to define the mathematical operations for each data type. 
