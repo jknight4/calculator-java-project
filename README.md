@@ -1,7 +1,7 @@
 # Generics and Lambda Calculator - Java Project
 
 ## Screenshot of App
-<img width="990" alt="calculator-app-img" src="https://github.com/jknight4/calculator-java-project/assets/96459238/6449927e-a0c9-4871-84c1-ffcd79cc9639">
+<img width="990" alt="calculator-app-img" src="https://github.com/jknight4/calculator-java-project/blob/main/calculator-app-img.png">
 
 
 ## Why
