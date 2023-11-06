@@ -1,5 +1,9 @@
 # Generics and Lambda Calculator - Java Project
 
+## Screenshot of App
+<img width="990" alt="calculator-app-img" src="https://github.com/jknight4/calculator-java-project/assets/96459238/6449927e-a0c9-4871-84c1-ffcd79cc9639">
+
+
 ## Why
   I struggled with understanding Java Lambdas and Generics. 
   To improve my skillset, I went to ChatGPT to come up with an idea that will use Lambdas and Generics.
