@@ -4,6 +4,9 @@
   I struggled with understanding Java Lambdas and Generics. 
   To improve my skillset, I went to ChatGPT to come up with an idea that will use Lambdas and Generics.
 
+## Results
+  I gained a better understanding on lambdas and genrics. I also improved my exception handling skills. 
+
 ## Approach
 
   ### Description
@@ -31,4 +34,4 @@
     Make your calculator extensible so that additional operations can be added easily in the future.
 
 ## Status
-  Project is currently in progress (Nov 2023 - Present)
+  Project is complete (Nov 2023)
