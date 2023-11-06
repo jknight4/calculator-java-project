@@ -6,7 +6,7 @@
 
 ## Why
   I struggled with understanding Java Lambdas and Generics. 
-  To improve my skillset, I went to ChatGPT to come up with an idea that will use Lambdas and Generics.
+  I went to ChatGPT to come up with a project idea using Lambdas and Generics.
 
 ## Results
   I gained a better understanding on lambdas and genrics. I also improved my exception handling skills. 
