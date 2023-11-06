@@ -27,7 +27,7 @@ public class JavaCalculatorAppApplication {
 			} catch (InputMismatchException e) {
 				System.out.println("Invalid Operand, Please Try Again");
 			} catch (Exception e) {
-				System.out.println(e.getMessage() + ", Please Try Again");
+				System.out.println(e.getLocalizedMessage() + ", Please Try Again");
 			} finally {
 				System.out.print("Press 1 to exit, Press anything else to continue: ");
 				if(scanner.next().equals("1")){
