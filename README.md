@@ -1,15 +1,23 @@
-# Calculator - Java Project
+# Generics and Lambda Calculator - Java Project
+
+## Screenshot of App
+<img width="990" alt="calculator-app-img" src="https://github.com/jknight4/calculator-java-project/assets/96459238/6449927e-a0c9-4871-84c1-ffcd79cc9639">
+
 
 ## Why
   I struggled with understanding Java Lambdas and Generics. 
   To improve my skillset, I went to ChatGPT to come up with an idea that will use Lambdas and Generics.
 
+## Results
+  I gained a better understanding on lambdas and genrics. I also improved my exception handling skills. 
+
 ## Approach
 
   ### Description
   
-    Create a command-line calculator in Java that can perform various mathematical operations on different data types using generics. 
-    Users can choose the operation they want to perform (e.g., addition, subtraction, multiplication) and input the operands. 
+    Create a command-line calculator in Java that can perform various mathematical operations 
+    on different data types using generics. Users can choose the operation they want to perform 
+    (e.g., addition, subtraction, multiplication) and input the operands. 
     Lambdas can be used to define the specific operation for each data type.
 
   ### Key Features
@@ -18,7 +26,8 @@
     Implement generic methods to support different data types, such as integers, doubles, and more.
     
     2.  User Interface: 
-    Allow users to choose the operation they want to perform (e.g., addition, subtraction, multiplication) and input the operands.
+    Allow users to choose the operation they want to perform (e.g., addition, subtraction, multiplication)
+    and input the operands.
     
     3. Lambda Expressions for Operations: 
     Use lambda expressions to define the mathematical operations for each data type. 
@@ -31,4 +40,4 @@
     Make your calculator extensible so that additional operations can be added easily in the future.
 
 ## Status
-  Project is currently in progress (Nov 2023 - Present)
+  Project is complete (Nov 2023)
