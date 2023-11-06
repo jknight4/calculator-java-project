@@ -26,13 +26,15 @@ public class JavaCalculatorAppApplication {
 						calculator.operandTwo, calculator.sum);
 			} catch (InputMismatchException e) {
 				System.out.println("Invalid Operand, Please Try Again");
-			} catch (Exception e) {
+			} catch(NumberFormatException e){
 				System.out.println(e.getLocalizedMessage() + ", Please Try Again");
-			} finally {
-				System.out.print("Press 1 to exit, Press anything else to continue: ");
-				if(scanner.next().equals("1")){
-					runApp = false;
-				}
+			}
+			catch (Exception e) {
+				System.out.println(e.getLocalizedMessage() + ", Please Try Again");
+			}
+			System.out.print("Press 1 to exit, Press anything else to continue: ");
+			if(scanner.nextLine().equals("1")){
+				runApp = false;
 			}
 		}
 

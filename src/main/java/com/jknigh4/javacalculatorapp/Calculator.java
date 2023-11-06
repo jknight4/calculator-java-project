@@ -15,7 +15,7 @@ public class Calculator{
 
     public void getOperatorInput(Scanner scanner) throws Exception{
         System.out.print("Enter the operator ( +, -, *, / ):  ");
-        String input = scanner.next();
+        String input = scanner.nextLine();
         validator.validateOperator(input);
         operator = input;
     }
@@ -23,10 +23,10 @@ public class Calculator{
     public void getOperandInput(String number, Scanner scanner){
         if(number.equals("one")){
             System.out.print("Enter operand one: ");
-            operandOne = scanner.nextBigDecimal();
+            operandOne = new BigDecimal(scanner.nextLine());
         }else{
             System.out.print("Enter operand two: ");
-            operandTwo = scanner.nextBigDecimal();
+            operandTwo = new BigDecimal(scanner.nextLine());
         }
     }
 
