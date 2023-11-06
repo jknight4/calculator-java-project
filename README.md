@@ -9,7 +9,7 @@
   I went to ChatGPT to come up with a project idea using Lambdas and Generics.
 
 ## Results
-  I gained a better understanding on lambdas and genrics. I also improved my exception handling skills. 
+  I gained a better understanding of lambdas and genrics. I also improved my exception handling skills. 
 
 ## Approach
 
